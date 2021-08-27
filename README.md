@@ -8,8 +8,8 @@ Initially, I am choosing three languages:
 
 These three languages were chosen specifically because they were each implemented on a separated VM (as indicated in the list above) and they each represent a different "style" of functional programming.
 
-Clojure is a "LISP".
+- Clojure is a "LISP".
+- Elixir, while utilizing many functional programming tenants (immutability, pattern matching, etc.) seems to inherit much of its syntax from Ruby (which is an OO language) while borrowing much of it's behavior and functionality from Erlang (seeing as they both run on the Erlang VM, this makes sense). Elixir provides an implementation of the actor model.
+- F# descends from OCaml.
 
-Elixir, while utilizing many functional programming tenants (immutability, pattern matching, etc.) seems to inherit much of its syntax from Ruby (which is an OO language) while borrowing much of it's behavior and functionality from Erlang (seeing as they both run on the Erlang VM, this makes sense). Elixir provides an implementation of the actor model.
-
-F# descends from OCaml.
+These three languages were also chosen because, while I am using them to learn more about functional programming, my hope is that I could use these languages in real business applications. Each of these languages is used in various settings and in many ways to solve many different problems, yet they could all be considered "general purpose."
