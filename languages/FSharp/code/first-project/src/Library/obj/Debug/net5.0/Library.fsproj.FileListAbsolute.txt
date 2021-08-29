@@ -1,0 +1,10 @@
+/Users/codyclay/Programming/FunctionalProgramming/FSharp/code/first-project/src/Library/bin/Debug/net5.0/Library.deps.json
+/Users/codyclay/Programming/FunctionalProgramming/FSharp/code/first-project/src/Library/bin/Debug/net5.0/Library.dll
+/Users/codyclay/Programming/FunctionalProgramming/FSharp/code/first-project/src/Library/bin/Debug/net5.0/Library.pdb
+/Users/codyclay/Programming/FunctionalProgramming/FSharp/code/first-project/src/Library/bin/Debug/net5.0/Library.xml
+/Users/codyclay/Programming/FunctionalProgramming/FSharp/code/first-project/src/Library/obj/Debug/net5.0/Library.fsproj.AssemblyReference.cache
+/Users/codyclay/Programming/FunctionalProgramming/FSharp/code/first-project/src/Library/obj/Debug/net5.0/Library.AssemblyInfoInputs.cache
+/Users/codyclay/Programming/FunctionalProgramming/FSharp/code/first-project/src/Library/obj/Debug/net5.0/Library.AssemblyInfo.fs
+/Users/codyclay/Programming/FunctionalProgramming/FSharp/code/first-project/src/Library/obj/Debug/net5.0/Library.dll
+/Users/codyclay/Programming/FunctionalProgramming/FSharp/code/first-project/src/Library/obj/Debug/net5.0/Library.xml
+/Users/codyclay/Programming/FunctionalProgramming/FSharp/code/first-project/src/Library/obj/Debug/net5.0/Library.pdb

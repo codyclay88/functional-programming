@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "4j/CdElJXy4Fpaj02DU/IZiGnuMCwV8c75wGwtPCQasdLNbxokDif6ndtSSmCKtZB7G83y8s2YfFQzqVARQqYw==",
+  "success": true,
+  "projectFilePath": "/Users/codyclay/Programming/FunctionalProgramming/FSharp/code/first-project/src/App/App.fsproj",
+  "expectedPackageFiles": [
+    "/Users/codyclay/.nuget/packages/fsharp.core/5.0.0/fsharp.core.5.0.0.nupkg.sha512",
+    "/Users/codyclay/.nuget/packages/newtonsoft.json/13.0.1/newtonsoft.json.13.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}
